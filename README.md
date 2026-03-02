@@ -29,8 +29,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nlnhvr/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/nlnhvr/leetcode/tree/master/0020-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nlnhvr/leetcode/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nlnhvr/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
