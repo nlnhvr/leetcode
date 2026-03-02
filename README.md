@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nlnhvr/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nlnhvr/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/nlnhvr/leetcode/tree/master/0066-plus-one) |
+| [0747-min-cost-climbing-stairs](https://github.com/nlnhvr/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nlnhvr/leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/nlnhvr/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
