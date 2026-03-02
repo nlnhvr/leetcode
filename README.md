@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/nlnhvr/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nlnhvr/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/nlnhvr/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/nlnhvr/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nlnhvr/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nlnhvr/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
